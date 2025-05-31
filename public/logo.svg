@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="40" viewBox="0 0 120 40" fill="none">
+  <!-- 背景圆角矩形 -->
+  <rect x="0" y="0" width="120" height="40" rx="8" fill="#f0f4f8"/>
+  
+  <!-- 单词W -->
+  <text x="20" y="28" font-size="24" font-weight="bold" fill="#1e293b" font-family="Segoe UI, sans-serif">
+    W
+  </text>
+
+  <!-- 对战线（代表冲突）-->
+  <line x1="50" y1="12" x2="55" y2="28" stroke="#64748b" stroke-width="2" stroke-linecap="round"/>
+
+  <!-- 单词G -->
+  <text x="70" y="28" font-size="24" font-weight="bold" fill="#e11d48" font-family="Segoe UI, sans-serif">
+    G
+  </text>
+</svg>
