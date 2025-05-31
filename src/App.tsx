@@ -1,12 +1,11 @@
 import { DialogsProvider } from '@toolpad/core'
 import './App.css'
-import React, { useContext, useEffect } from 'react' 
+import React from 'react' 
 import { createTheme, CssBaseline, ThemeProvider } from '@mui/material';
-import { Route, Routes, useNavigate } from 'react-router-dom'; 
+import { Route, Routes } from 'react-router-dom'; 
 import { MainProvider } from './common/MainContext';
 import Login from './pages/Login';
 import Callback from './pages/Callback';
-import { MainContext } from './common/Types';
 import Homepage from './pages/Homepage';
 
 const theme = createTheme({
