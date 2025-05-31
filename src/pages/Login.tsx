@@ -49,10 +49,10 @@ const Login = () => {
               color: '#000',
               fontFamily: 'Inter',
               textAlign: 'left',
-              fontSize: 20,
-              fontWeight: 700,
+              fontSize: '20px',
+              fontWeight: '700',
               lineHeight: '120.932%',
-              letterSpacing: 3.4
+              letterSpacing: '3.4px',
             }}>
               Welcome To TaniLinks
             </Typography>
@@ -104,4 +104,4 @@ const Login = () => {
   );
 };
 
-export default Login; 
+export default Login;
