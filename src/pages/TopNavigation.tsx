@@ -50,7 +50,7 @@ function TopNavigation() {
                         lineHeight: '119.074%', // 或者计算后的值 '47.63px'
                         letterSpacing: '3.6px',
                         }}>
-                        TaniLinks
+                        AAA
                     </Typography>
                 </Box>
                 {/* 右侧控件 */}
